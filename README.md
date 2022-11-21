@@ -54,4 +54,3 @@ Here is a [video](https://www.youtube.com/watch?v=-2IWfZjqoNc) testing it:
 >>>>>>> 8d077915de22a36059f2beb96214bc13ee442b09
 
 
-ayhan gültekin
